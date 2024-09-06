@@ -1,7 +1,8 @@
-streamlit
-langchain
 langchain_community
-faiss-cpu # or faiss-gpu if you're using GPUs
-tqdm
-pdfplumber
-numpy
+streamlit
+google-generativeai
+python-dotenv
+langchain
+pyPDF2
+faiss-cpu
+langchain_google_genai
